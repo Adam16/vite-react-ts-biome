@@ -15,6 +15,17 @@ Clone & install dependencies:
 pnpm install
 ```
 
+## Features
+
+- React with TypeScript
+- Vite for fast development and build
+- Biome for linting and formatting
+- Husky for Git hooks
+- Vitest for unit testing
+- Playwright for end-to-end testing
+- Knip for dependency analysis
+- Cosmos for developing and testing UI components in isolation.
+
 ## To be continued...
 
 Work in progress!
